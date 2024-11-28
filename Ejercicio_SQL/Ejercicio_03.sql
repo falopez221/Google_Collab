@@ -1,0 +1,1 @@
+select nombre from materia where codigo > 102

@@ -1,0 +1,1 @@
+select ciudad from Docente 
